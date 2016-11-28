@@ -1,0 +1,11 @@
+firstname|lastname|Email|Phone
+
+Rose|Elliot|rosejelliott@gmail.com|(916) 397-7464
+Kirin|Jamison|kirinj@gmail.com|(650) 243-8596
+Sam,Jamison|samjamison@gmail.com|(415) 307-8628
+Shah|Malik|shano@comcast.net|(503) 806-6740
+Marney|Malik|marney.malik@gmail.com|(360) 574-34261
+Heidi|Levitt|hleavitt@seattleymca.org|(206) 390-7806
+Kim|Jones|kimr@rylem.com|(253) 227-4502
+Rebecca|Matthews|rebecca.k.matthews@gmail.com|(415) 412-1421
+Erin|Sullivan|esullivan9@gmail.com|(617) 645-2076
